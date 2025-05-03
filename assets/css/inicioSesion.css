@@ -1,0 +1,68 @@
+main{
+    background-color: rgb(153, 153, 153);
+    display: flex;
+    height: 100vh;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+/*
+*
+* Contenedor de formulario--------------
+*
+*/
+
+.cont-formulario{
+    background-color: rgb(255, 255, 255);
+    padding: 3%;
+    border-radius: 10px;
+  
+}
+
+
+
+/*
+*
+* Adentro de el formulario--------------
+*
+*/
+.form-floating{
+    margin: 3%;
+    width: 100%;
+    height: 6vh;
+    border-radius: 5px;
+    
+}
+
+
+
+/*
+*
+* Imagen de formulario--------------
+*
+*/
+.mb-3{
+    height: 6.7vh;
+    border-radius: 5px;
+}
+
+
+
+
+
+/* Ajustes para dispositivos de hasta 480px */
+@media (max-width: 480px) {
+    .cont-formulario{
+        width: 70%;
+        height: 60vh;
+        padding: 5%;
+       
+    }
+
+    .mb-3{
+        height: 8vh;
+    }
+}

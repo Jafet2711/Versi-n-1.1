@@ -1,0 +1,70 @@
+body{
+   
+    margin: 0px;
+    padding: 0px;
+    
+   
+   
+}
+
+
+/*
+*
+* INICIO DE HEADER--------------
+*
+*/
+header{
+
+    padding-left: 1rem;
+    padding-right: 1rem;
+   
+   
+}
+header .nav-link{
+    
+}
+
+header .nav-link:hover{
+  
+    color: rgb(14, 2, 151);
+   
+}
+header a{
+    text-decoration: none;
+}
+
+/*
+*
+*Botones Header
+*
+*/
+header .btn{
+    
+}
+
+
+
+/*
+*
+* INICIO DE MAIN--------------
+*
+*/
+main{top: 0px;
+   
+    width: 100%;
+    
+}
+
+
+
+
+
+/*
+*
+* INICIO DE FOOTER--------------
+*
+*/
+footer{
+    padding-left: 1rem;
+    padding-right: 1rem;
+}
