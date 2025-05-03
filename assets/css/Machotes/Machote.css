@@ -21,6 +21,7 @@ header{
 
     padding-left: 1rem;
     padding-right: 1rem;
+   background-color: aliceblue;
    
    
 }
@@ -71,4 +72,5 @@ main{top: 0px;
 footer{
     padding-left: 1rem;
     padding-right: 1rem;
+   background-color: aliceblue;
 }
