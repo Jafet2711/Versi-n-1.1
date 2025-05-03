@@ -133,7 +133,18 @@ margin: 1%;
         align-items: center; /* Centra las imágenes */
     }
 
+     .d-flex{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column; /* Cambia a columna en pantallas pequeñas */
+    }
+
     #contenedor-autos .card .text-body-secondary{
+        display: none !important;
+    }
+
+      #contenedor-autos .card .card-text{
         display: none !important;
     }
 }
