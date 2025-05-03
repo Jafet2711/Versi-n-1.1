@@ -6,10 +6,11 @@ if (header) {
 
      
         <div class="col-md-3 mb-2 mb-md-1">
-          <a href="/" class="d-inline-flex link-body-emphasis text-decoration-none">
-            <svg class="bi" width="40" height="32" role="img" aria-label="Bootstrap" _mstaria-label="138918" _mstHash="19"><use xlink:href="#bootstrap"></use></svg>
-          </a>
+         <a href="/" class="d-inline-flex align-items-center">
+          <img src="./assets/img/logo for a car sales company.png" alt="Logo" style="height: 40px;">
+         </a>
         </div>
+  
   
         <ul class="nav col-12 col-md-auto mb-2 justify-content-center mb-md-0">
           <li><a href="#" class="nav-link px-2 link-secondary" _msttexthash="59059" _msthash="20">Hogar</a></li>
