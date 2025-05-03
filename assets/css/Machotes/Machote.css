@@ -2,9 +2,13 @@ body{
    
     margin: 0px;
     padding: 0px;
-    
+    background-color: #1c2833;
+    height: 100%;
    
    
+}
+h1{
+    color: aliceblue;
 }
 
 
