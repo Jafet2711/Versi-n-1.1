@@ -125,14 +125,9 @@ margin: 1%;
        
     }
 
-    .cont-img {
-        width: 100%;
-        margin-bottom: 20px; /* Espacio entre las imágenes y el aside */
-    }
-
-    .cont-img img{
-        width: 100%; /* Ajusta el tamaño de la imagen al 100% del contenedor */
-        height: 20vh; /* Mantiene la proporción de la imagen */
+    .carousel {
+        width: 100%; /* Ajusta el ancho del carrusel */
+        height: 20vh; /* Ajusta la altura del carrusel */
     }
 
     .row {
